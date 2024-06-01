@@ -4,3 +4,7 @@
 ! Block Cloudflare banner
 community.cloudflare.com##.d-modal__backdrop
 community.cloudflare.com##.d-modal__container
+
+! nvidia banner - Still sorta broken tho
+developer.nvidia.com##.nv-modal-backdrop
+developer.nvidia.com##.nv-modal
