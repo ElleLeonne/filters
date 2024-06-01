@@ -1,0 +1,2 @@
+! Redirect reddit
+||www.reddit.com^$redirect=302;domain=old.reddit.com
