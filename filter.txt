@@ -1,2 +1,6 @@
 ! Redirect reddit
 ||www.reddit.com^$redirect=302;domain=old.reddit.com
+
+! Block Cloudflare banner
+community.cloudflare.com##.d-modal__backdrop
+community.cloudflare.com##.d-modal__container
